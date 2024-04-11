@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{ 
+    background-color: black;  
+}
+header{
+    
+    color: white;  
+}
+h1{
+    position: relative;
+    top: 10px;
+    left: 50px;
+}
+nav ul li{
+    display: inline;
+    justify-content: space-between;
+   position: relative;
+   left: 500px;
+  
+}
+li a{
+    color: white;
+   position: relative;
+   bottom: 10px;
+   margin-left: 20px;
+   text-decoration: none;
+}
+p{
+    display: inline;
+  position: relative;
+  left: 900px;
+  bottom: 25px;
+ padding-left: 15px;
+  
+}
+li a:hover{
+    text-decoration: underline;
+   color: aqua;
+   
+}
+section{
+    border: 1px solid white;
+    width:400px;
+    height: 86vh;
+}
+.container{
+   
+   
+    margin-top: 20px;
+   
+   
+
+}
+.row{
+    color: white;
+    display: inline-flex;
+    justify-content: space-between;    
+   
+}
+.box2{
+ margin-left: 40px;
+}
+input{
+    position: relative;
+    top: 20px;
+    left: 10px;
+    padding: 10px;
+    width: 95%;
+    border: none black black;
+   
+   
+    
+}
+.table{
+    color: white;
+    border: 1px solid rgb(243, 238, 238);
+   
+   position: relative;
+   top: 50px;
+}
+table tr td{
+    border: 0px underline black;
+    
+    
+}
+button{
+    background-color: lightgreen;
+    border: 0px 0px lightgreen;
+    padding: 5px;
+}
+.card1{
+    border: 1px solid white;
+    width: 400px;
+    height: 100px;
+}
+.block{
+    width: 850px;
+   
+   position: relative;
+   left: 5px;
+    
+
+}
+.one{
+    height: 130px;
+    position: relative;
+    left: 400px;
+    bottom: 50px;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+h6{
+    position: relative;
+    left: 270px;
+    bottom: 60px;
+}
+h5{
+    position: relative;
+    left: 260px;
+     bottom: 20px;
+}
